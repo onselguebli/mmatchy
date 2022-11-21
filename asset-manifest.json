@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/mmatchy/static/css/main.073c9b0a.css",
+    "main.js": "/mmatchy/static/js/main.ac742299.js",
+    "static/js/787.067d24ed.chunk.js": "/mmatchy/static/js/787.067d24ed.chunk.js",
+    "static/media/Sanstitre.jpg": "/mmatchy/static/media/Sanstitre.c96e2cca4e6d2afdb8e3.jpg",
+    "index.html": "/mmatchy/index.html",
+    "main.073c9b0a.css.map": "/mmatchy/static/css/main.073c9b0a.css.map",
+    "main.ac742299.js.map": "/mmatchy/static/js/main.ac742299.js.map",
+    "787.067d24ed.chunk.js.map": "/mmatchy/static/js/787.067d24ed.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.ac742299.js"
+  ]
+}
